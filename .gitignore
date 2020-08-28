@@ -2,4 +2,4 @@ input
 out
 .idea
 *.iml
-*/target/*
+*target/
