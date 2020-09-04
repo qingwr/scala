@@ -11,6 +11,7 @@
     <modules>
         <module>tojar</module>
         <module>temp</module>
+        <module>sparkLearn</module>
     </modules>
     <properties>
         <scala.version>2.11.8</scala.version>
