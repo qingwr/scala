@@ -12,6 +12,7 @@
         <module>tojar</module>
         <module>temp</module>
         <module>sparkLearn</module>
+        <module>sparkSqlDemo</module>
     </modules>
     <properties>
         <scala.version>2.11.8</scala.version>
