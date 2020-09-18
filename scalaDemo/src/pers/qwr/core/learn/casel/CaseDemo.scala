@@ -1,6 +1,6 @@
-package pers.qwr.core.learn
+package pers.qwr.core.learn.casel
 
-import util.control.Breaks._
+import scala.util.control.Breaks._
 
 object CaseDemo {
 
